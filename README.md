@@ -1,1 +1,1 @@
-# Program-Menentukan-Bilangan-Terkecil-Dari-3-Buah-Bilangan-Algoritma-3
+# Program Menentukan Bilangan Terkecil Dari 3 Buah Bilangan
